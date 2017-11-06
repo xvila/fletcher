@@ -175,3 +175,4 @@ config.py
 # Data Folders
 data/*
 books/*
+*.pkl
