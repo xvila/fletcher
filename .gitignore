@@ -177,4 +177,5 @@ data/*
 books/*
 archive/*
 pickles/*
+images/*
 *.pkl
