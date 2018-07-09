@@ -175,4 +175,6 @@ config.py
 # Data Folders
 data/*
 books/*
+archive/*
+pickles/*
 *.pkl
